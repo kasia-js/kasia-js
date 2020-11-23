@@ -3,7 +3,9 @@
 
 <h4 align="left">I love to create beautiful, functional things that I can be proud of. To me programming is like a superpower, it allows us to bring the most amazing ideas to life and make a true difference. </h4>
 
-<h6 align="left">I enjoy working mostly with:</h6>
+<h6 align="left">Now learning:</h6>
+<a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<h6 align="left">I have worked mostly with:</h6>
 <p align="left"> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
